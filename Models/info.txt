@@ -1,0 +1,6 @@
+Three pretrained models are used Resnet18, GoogleNet and EfficientNet are used fo Iris tumour classification from images. 
+
+Model             Train accuracy          Validation accuracy       Train loss           Validation Loss
+Resnet 18             100%                      100%                  0.0001                 0.0003
+EfficientNet          99.47%                    100%                  0.0211                 0.0018
+GoogleNet            
