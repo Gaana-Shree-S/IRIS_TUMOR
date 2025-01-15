@@ -2,7 +2,7 @@
 
 https://huggingface.co/spaces/GaanaShreeS/IRIS_TUMOR
 
-This model is deployed using Hugging face, open source deployment tool.The application runs on Gradio. Gradio is a powerful Python library that makes it easy to deploy machine learning models through simple web interfaces. In this deployment, users can upload an image of the iris and the system analyzes it to determine if a tumor is present. The interface is designed to be user-friendly, featuring drag-and-drop functionality for uploading images and displaying clear text predictions as output. A title and description further enhance the accessibility of the tool, making its purpose clear. Once deployed, the application runs a local web server, generating a URL where the interface can be accessed and tested in a browser. Gradio's intuitive design streamlines the process of showcasing machine learning models and sharing them with others.
+This model is deployed using Hugging face, open source deployment tool.The application runs on Gradio. Gradio is a powerful Python library that makes it easy to deploy machine learning models through simple web interfaces. In this deployment, users can upload an image of the iris and the system analyzes it to determine if a tumor is present. The interface is designed to be user-friendly, featuring drag-and-drop functionality for uploading images and displaying clear text predictions as output.  Gradio's intuitive design streamlines the process of showcasing machine learning models and sharing them with others.
 
 
 *About the project:*
